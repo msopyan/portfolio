@@ -6,6 +6,7 @@ https://www.figma.com/file/7Zde91MyvebmX0TohWsWSO/PineProp?node-id=0%3A1
 
 ## Finance
 https://www.figma.com/file/ShnZB4OiqK9mldQA3Hxlz4/PayLater
+https://www.figma.com/file/Fm3LRPGo9YWlskirFUYdCn/Smart-in-Pays?node-id=1%3A5758
 
 ## EdTech
 https://www.figma.com/file/0pvydTczbstCA3qQ1p4k9f/Cakap?node-id=24%3A0
