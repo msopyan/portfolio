@@ -24,7 +24,7 @@ https://www.figma.com/file/tCnPE6cGUqQKHFKke3nAiX/Kincir
 https://www.figma.com/file/XyQedzo7NbNoltig3DvszK/AwanTunai-Landing-Page
 https://www.figma.com/file/wZlNh8hjqTeAnazeZfcLCp/Landingpage-Terampil
 https://www.figma.com/file/G1bmzKyKYOpF0IFvzXLccUyi/web-bahasakita
-https://www.figma.com/file/2mtRQY6ojKQsmgrTT02oaJ/Website-PIS
+https://www.figma.com/file/2mtRQY6ojKQsmgrTT02oaJ/Website-PIS https://smartinpays.com/
 https://www.figma.com/file/5tEDggoZzBZYoCbHXwRo8J/Tunaiku
 https://www.figma.com/file/ijeeBlfKExyyBii3UPxwdz/Laguku?node-id=46%3A1078
 
