@@ -16,6 +16,9 @@ https://www.figma.com/file/ZgTxzlHGB8xtRoOs4zOOwYnf/Notula-All?node-id=0%3A1
 
 ## Smart Home
 
+## Kementerian Investasi/BKPM
+
+
 ## Hotel Management
 https://www.figma.com/file/mBvwF1axbNSTmrHByNMzRY/Dashboard-Management-Hotel?node-id=1656%3A11446
 
