@@ -17,6 +17,7 @@ https://www.figma.com/file/ZgTxzlHGB8xtRoOs4zOOwYnf/Notula-All?node-id=0%3A1
 ## Smart Home
 
 ## Kementerian Investasi/BKPM
+https://www.figma.com/file/VZxWYNUwoSamwhi8ocTrRh/Minister-of-Investment-Indonesia---Dekstop?type=design&t=bAJXWAXCkebUkT0x-1
 
 
 ## Hotel Management
